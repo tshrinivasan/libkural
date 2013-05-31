@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 setup(name='libkural',
-      version='1.0',
+      version='1.0.1',
       description='Python library for accessing Tamil (UTF-8 encoded) literary work Thirukkural, with translations and commentary in English (G.U.Pope et-al version)',
       author='Muthiah Annamalai',
       author_email='',
