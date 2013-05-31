@@ -10,7 +10,7 @@ setup(name='libkural',
       py_modules=['libkural'],
       license='BSD',
       platforms='PC,Linux,Mac',
-      classifiers='Tamil,UTF-8,literature,couplets',
+      #classifiers='Tamil,UTF-8,literature,couplets',
       download_url='https://pypi.python.org/pypi/libkural/1.0',#pip
       )
 
